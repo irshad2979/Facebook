@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #F0F2F5;
+}
+.main {
+    margin-top: 10rem;
+    margin-left: 5rem;
+}
+h2 {
+    color: #1877F2;
+    font-size: 5rem;
+
+}
+.connect {
+    font-size: 1.75rem;
+}
+.sub {
+    border: 1px solid;
+    width: 420px;
+    height: 25rem;
+    background-color: #ebedf0;
+    margin-left: 50%;
+    margin-top: -10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: none;
+    border-radius: 10px;
+}
+.email {
+    padding: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 350px;
+    border: none;
+}
+.password {
+    padding: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+    width: 350px;
+    border: none;
+}
+.login {
+    height: 3.5rem;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 390px;
+    border: none;
+    background-color: #1877F2;
+    color: white;
+    font-weight: 800;
+    font-size: 1.25rem;
+}
+.create {
+    height: 3.25rem;
+    margin-top: 10px;
+    margin-right: 10%;
+    margin-left: 25%;
+    border-radius: 5px;
+    width: 220px;
+    border: none;
+    background-color: #42B72A;
+    color: white;
+    font-weight: 900;
+    font-size: 1rem;
+}
+.forgot {
+    text-align: center;
+    color: #1877F2;
+    font-weight: 500;
+}
+.bottom {
+    border-bottom: 0.75px solid grey;
+}
+
+ 
